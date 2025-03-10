@@ -11,7 +11,7 @@ import branca.colormap as cm
 st.title("Dashboard Laporan Cuaca")
 
 # Path file data
-data_path = "cleaned_air_quality_data.csv"
+data_path = "https://github.com/RefaMuhammad/Dashboard-Laporan-Cuaca/blob/main/dashboard/cleaned_air_quality_data.csv"
 
 # Cek apakah file data ada
 try:
